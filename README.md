@@ -18,7 +18,7 @@ Built using **Linear Regression** and **Streamlit** for an interactive interface
 ## **Live Demo**
 
 Check out the app online:  
-[🌐 Launch App]()
+[🌐 Launch App](https://nishchita-house-price-predictor.streamlit.app/)
 
 ---
 
